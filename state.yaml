@@ -1,0 +1,11 @@
+myName.SecurityGroup:
+  Description: b
+  GroupName: None
+  VpcId: c
+  DryRun: None
+Wrapper.Two.SG1.SecurityGroup:
+  id: sg-as3j49
+  Description: None
+  GroupName: None
+  VpcId: 2
+  DryRun: None
