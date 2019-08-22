@@ -3,7 +3,7 @@ myName.SecurityGroup:
   GroupName: None
   VpcId: c
   DryRun: None
-Wrapper.Two.SG1.SecurityGroup:
+Wrapper.Two.SG2.SecurityGroup:
   id: sg-as3j49
   Description: None
   GroupName: None
